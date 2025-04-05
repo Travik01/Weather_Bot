@@ -5,7 +5,7 @@ To use this code, you will need to do several things:
   2 get the API key in OpenWeatherMap (https://openweathermap.org/api)
   3 get the Telegram API from BotFather (@BotFather)
 
-So, having done three things, we can now come to the code itself, the idea of the program is very simple, we find out the weather from OpenWeaherMap and transfer it to the user, to show clothes, we train a neural network for recognition on the mnist set, and then randomly select images suitable for the weather
+So, having done three things, we can now come to the code itself, the idea of the program is very simple, we find out the weather from OpenWeaherMap and transfer it to the user, to show clothes, we train a neural network for recognition on the mnist set, and then randomly select images suitable for the weather/
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Telegram-бот, который предсказывает погоду с помощью OpenWeatherMap, а также содержит глубокое обучение на наборе данных mnist для отображения одежды в зависимости от погоды
 
 Чтобы использовать этот код, вам нужно будет выполнить несколько действий:
